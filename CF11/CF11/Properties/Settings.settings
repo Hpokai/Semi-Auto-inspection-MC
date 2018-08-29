@@ -1,0 +1,108 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CF11.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="account" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="sgs_drl_L_led1_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">11.2</Value>
+    </Setting>
+    <Setting Name="sgs_drl_L_led1_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">9.47</Value>
+    </Setting>
+    <Setting Name="sgs_drl_L_led2_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">22.28</Value>
+    </Setting>
+    <Setting Name="sgs_drl_L_led2_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">20.59</Value>
+    </Setting>
+    <Setting Name="sgs_drl_R_led1_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">11.2</Value>
+    </Setting>
+    <Setting Name="sgs_drl_R_led1_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">9.47</Value>
+    </Setting>
+    <Setting Name="sgs_drl_R_led2_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">22.28</Value>
+    </Setting>
+    <Setting Name="sgs_drl_R_led2_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">20.59</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_L_led1_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_L_led1_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_L_led2_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_L_led2_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_R_led1_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_R_led1_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_R_led2_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_R_led2_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="sgs_vave_L_led1_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">11.28</Value>
+    </Setting>
+    <Setting Name="sgs_vave_L_led1_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">9.08</Value>
+    </Setting>
+    <Setting Name="sgs_vave_L_led2_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">21.97</Value>
+    </Setting>
+    <Setting Name="sgs_vave_L_led2_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">20.68</Value>
+    </Setting>
+    <Setting Name="sgs_vave_R_led1_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">11.08</Value>
+    </Setting>
+    <Setting Name="sgs_vave_R_led1_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">9.08</Value>
+    </Setting>
+    <Setting Name="sgs_vave_R_led2_x" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">21.97</Value>
+    </Setting>
+    <Setting Name="sgs_vave_R_led2_y" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">20.68</Value>
+    </Setting>
+    <Setting Name="first_offset" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.1</Value>
+    </Setting>
+    <Setting Name="second_offset" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.25</Value>
+    </Setting>
+    <Setting Name="sgs_drl_L_ydir" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="sgs_drl_R_ydir" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_L_ydir" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="sgs_low_power_R_ydir" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="sgs_vave_L_ydir" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="sgs_vave_R_ydir" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

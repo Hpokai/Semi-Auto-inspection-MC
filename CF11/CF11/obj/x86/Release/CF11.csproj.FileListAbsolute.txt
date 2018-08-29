@@ -1,0 +1,11 @@
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Release\CF11.exe.config
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Release\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Release\CF11.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Release\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Release\Jabil_UserControl_ADLINK.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Release\CF11.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Release\CF11.mainForm.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Release\CF11.Properties.Resources.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Release\CF11.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Release\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Release\CF11.pdb

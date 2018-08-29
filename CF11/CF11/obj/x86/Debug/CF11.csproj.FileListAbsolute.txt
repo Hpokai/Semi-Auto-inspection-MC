@@ -1,0 +1,390 @@
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\CF11.exe.config
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\CF11.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Debug\CF11.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Jabil_UserControl_ADLINK.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140726\CF11\bin\Debug\CF11.exe.config
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140726\CF11\obj\x86\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140726\CF11\obj\x86\Debug\CF11.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\CF11.exe.config
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\CF11.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Jabil_UserControl_ADLINK.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\obj\x86\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\obj\x86\Debug\CF11.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\CF11.exe.config
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\obj\x86\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\obj\x86\Debug\CF11.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\CF11.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\CF11.exe.config
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\obj\x86\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\CF11.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140730\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140804\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140804\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140804\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140804\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140804\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140804\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140804\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140804\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140804\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140804\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140804_2345\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140804_2345\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140804_2345\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140804_2345\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140804_2345\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140804_2345\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140804_2345\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140805\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140805\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140805\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140805\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140805\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140805\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140805\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140805\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140805\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140805\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140807\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140807\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140807\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140807\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140807\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140807\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140807\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140807\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140807\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140807\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140808\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140808\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140808\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140808\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140808\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140808\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140808\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140808\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140808\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140808\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140808_1230\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140808_1230\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140808_1230\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140808_1230 - Copy\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140808_1230 - Copy\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140808_1230 - Copy\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140808_1230 - Copy\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140808_1230 - Copy\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140808_1230 - Copy\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140808_1230 - Copy\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140808_1600 - Copy\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140808_1600 - Copy\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140808_1600 - Copy\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140808_1600 - Copy\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140808_1600 - Copy\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140808_1600 - Copy\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140808_1600 - Copy\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140809\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140809\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140809\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140809\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140809\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140809\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140809\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140809\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140809\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140809\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140810\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140810\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140810\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140810\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140810\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140810\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140810\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140810\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140810\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Software\CF11_20140810\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Software\CF11_20140811\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140811\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140811\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140811\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140811\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140811\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140811\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140811\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140811\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140811\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140812\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140812\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140812\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140812\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140812\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140812\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140812\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140812\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140812\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140812\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140812_2400\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140812_2400\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140812_2400\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140812_2400\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140812_2400\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140812_2400\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140812_2400\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140813\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140813\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140813\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140813_1700\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140813_1700\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140813_1700\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140813_1700\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140813_1700\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140813_1700\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140813_1700\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140814\CF11\bin\Debug\CF11.exe.config
+D:\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.exe
+D:\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.pdb
+D:\Software\CF11_20140814\CF11\bin\Debug\CF11.exe
+D:\Software\CF11_20140814\CF11\bin\Debug\CF11.pdb
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Software\CF11_20140814\CF11\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.csprojResolveAssemblyReference.cache
+D:\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.mainForm.resources
+D:\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.Properties.Resources.resources
+D:\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140814\CF11\bin\Debug\CF11.exe.config
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.exe
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.pdb
+D:\Jabil\00__Project\_CHA\07-CF11 inspection MC\Software\CF11_20140814\CF11\bin\Debug\CF11.exe.config
+D:\Jabil\00__Project\_CHA\07-CF11 inspection MC\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.exe
+D:\Jabil\00__Project\_CHA\07-CF11 inspection MC\Software\CF11_20140814\CF11\obj\x86\Debug\CF11.pdb

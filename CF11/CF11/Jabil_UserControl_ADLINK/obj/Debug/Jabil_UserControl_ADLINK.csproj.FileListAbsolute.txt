@@ -1,0 +1,288 @@
+C:\Users\Rick\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\Rick\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\Rick\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230.resources
+C:\Users\Rick\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\Rick\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\Rick\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856.resources
+C:\Users\Rick\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach.resources
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_.resources
+C:\Users\User\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_.resources
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\User\Desktop\Leo\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\Rick\Desktop\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\Rick\Desktop\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\Rick\Desktop\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\Rick\Desktop\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_.resources
+C:\Users\Rick\Desktop\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\Rick\Desktop\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\Rick\Desktop\0327\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\Rick\Desktop\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\Rick\Desktop\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\Rick\Desktop\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\Rick\Desktop\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_.resources
+C:\Users\Rick\Desktop\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\Rick\Desktop\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\Rick\Desktop\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0402\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0402\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0402\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\cucusi\Desktop\0402\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\cucusi\Desktop\0402\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+C:\Users\cucusi\Desktop\0402\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0402\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0402\0402\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0403\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0403\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0403\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0403\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0403\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0403\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0403\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0403\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0404\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\cucusi\Desktop\0404\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\cucusi\Desktop\0404\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\cucusi\Desktop\0404\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+C:\Users\cucusi\Desktop\0404\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0404\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0404\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0404\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0406\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0406\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0406\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\cucusi\Desktop\0406\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\cucusi\Desktop\0406\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\cucusi\Desktop\0406\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+C:\Users\cucusi\Desktop\0406\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0406\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0408\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0409\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0410\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0410 - 複製 (2)\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0414\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\cucusi\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\cucusi\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\cucusi\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+C:\Users\cucusi\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0416\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0417\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0417_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0417_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\cucusi\Desktop\0417_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\cucusi\Desktop\0417_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\cucusi\Desktop\0417_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\cucusi\Desktop\0417_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+C:\Users\cucusi\Desktop\0417_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\cucusi\Desktop\0417_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0417_2\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0420\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0421\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0423\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0423_1\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0424\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+D:\工作\專案相關\測試案\保時捷車燈車殼組裝\程式\0506-取像特徵測試\0403\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+C:\Users\MyUser\Desktop\Jabil_UserControl_ADLINK\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140727\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\bin\Debug\Jabil_UserControl_ADLINK.pdb
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_VCM_Thita.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7230_.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PCI7856_4XMO.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.UserControl_PointsTeach_.resources
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.dll
+D:\Jabil\00__Work\07-CF11 inspection MC\Software\CF11_20140729\CF11\Jabil_UserControl_ADLINK\obj\Debug\Jabil_UserControl_ADLINK.pdb
